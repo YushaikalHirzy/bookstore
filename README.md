@@ -9,7 +9,7 @@ To run this project on your local machine follow these instructions:
 
 2. Download and install Netbeans https://netbeans.org/
    Note: Don't forget to include Apache Tomcat to be installed during the installation procedure.
-
+test
 3. Create a new user named "srgykim" and password "srgykim" using pgAdmin and grant all the privileges (superuser).
 
 4. Download the project from this repository and extract it.
