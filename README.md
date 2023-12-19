@@ -27,4 +27,4 @@ To run this project on your local machine follow these instructions:
 _________________________________________________________________________________________________________________________
 
 Contacts:
-srgykim@gmail.com
+aniq
